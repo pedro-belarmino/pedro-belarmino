@@ -1,4 +1,4 @@
-<h3 align="left"></h3>
+<h2 align="left">Hi 👋! My name is Pedro and I'm a Web Developer, from São Paulo, Brazil</h2>
 
 ###
 
