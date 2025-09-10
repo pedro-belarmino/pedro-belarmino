@@ -42,10 +42,11 @@
 <a href="https://www.instagram.com/pedro_gbelar">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/pedro_gbela](https://www.linkedin.com/in/pedro-belarmino-33b905232/">
+<br/>
+<a href="https://www.linkedin.com/in/pedro-belarmino-33b905232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee"/>
 </a>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ###
 
 <img align="right" height="100" src="https://i.pinimg.com/originals/26/36/7b/26367b882196bab0348c173ec61d9268.gif"  />
