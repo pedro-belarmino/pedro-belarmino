@@ -38,11 +38,9 @@
 
 
 ###
-
-<br clear="both">
-
-<img align="left" src="https://profile-counter.glitch.me/pedro-belarmino/count.svg?"  />
-
+<a href="instagram.com/pedro_gbelar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 ###
 
 <img align="right" height="100" src="https://i.pinimg.com/originals/26/36/7b/26367b882196bab0348c173ec61d9268.gif"  />
