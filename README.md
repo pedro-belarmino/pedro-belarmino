@@ -47,8 +47,8 @@
 
 ###
 
-<a>
-<img href="scoutz.com.br" align="right" height="100" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/521280461_17849973801512093_2232936984504887544_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QEvvFT947kFa8cnjDRRVim3VHlXjxVngtwiGOEeuTHoAHrrWQJdt_H8lL9Hr4waTHo&_nc_ohc=myX60DSg57cQ7kNvwHJkdpL&_nc_gid=5Ph0_NZxM1PAFTgtkNqhHg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfkuLU5lNmzT95tXcIXrmcJ_73eUQR4PoMaZ8z50afcUlg&oe=6945D8D4&_nc_sid=7a9f4b"  />
+<a href="scoutz.com.br">
+<img align="right" height="100" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/521280461_17849973801512093_2232936984504887544_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QEvvFT947kFa8cnjDRRVim3VHlXjxVngtwiGOEeuTHoAHrrWQJdt_H8lL9Hr4waTHo&_nc_ohc=myX60DSg57cQ7kNvwHJkdpL&_nc_gid=5Ph0_NZxM1PAFTgtkNqhHg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfkuLU5lNmzT95tXcIXrmcJ_73eUQR4PoMaZ8z50afcUlg&oe=6945D8D4&_nc_sid=7a9f4b"  />
 </a>
   <br clear="both">
 
