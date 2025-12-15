@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" height="100" src="https://drive.google.com/file/d/19pe-_TG-lYaJGxQrwe-GmvKUHjfu08_Z/view?usp=sharing"  />
+<img align="right" height="100" src="https://scoutz.com.br/media/shop_login/2025/07/4a6f3eda-a022-4579-81bb-82af7421a210.png"  />
 <br clear="both">
 
 <div style="flex">
