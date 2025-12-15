@@ -51,7 +51,7 @@
 <br clear="both">
 
 <div style="flex">
-<a href="https://docs.google.com/document/d/1tD-n17MPTWCyEMDmYEuSp4jSaqr1s2_GCv_mgzEeRDk/edit?tab=t.0">
+<a href="https://drive.google.com/file/d/19pe-_TG-lYaJGxQrwe-GmvKUHjfu08_Z/view?usp=sharing">
 <p>Currículo</p>
 <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNmP_vGjSlviJylMQEutHoQX0p7dHSbCKsQ&s" alt="" />
 </a>
