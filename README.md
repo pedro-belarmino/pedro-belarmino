@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-belarmino&theme=nord&show_icons=true&hide_border=false&count_private=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-belarmino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-belarmino&theme=nord&show_icons=true&hide_border=false&count_private=true" />
   <br/>    
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-belarmino&theme=nord&hide_border=false"/>
 </div>
