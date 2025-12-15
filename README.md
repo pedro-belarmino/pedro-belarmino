@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/originals/26/36/7b/26367b882196bab0348c173ec61d9268.gif"  />
+<img align="right" height="100" src="https://drive.google.com/file/d/19pe-_TG-lYaJGxQrwe-GmvKUHjfu08_Z/view?usp=sharing"  />
 <br clear="both">
 
 <div style="flex">
